@@ -7,4 +7,11 @@
         <shortDescription>label1</shortDescription>
         <value>1</value>
     </labels>
+    <labels>
+        <fullName>label4</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>label4</shortDescription>
+        <value>4</value>
+    </labels>
 </CustomLabels>
