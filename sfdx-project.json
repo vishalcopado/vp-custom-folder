@@ -7,6 +7,10 @@
     {
       "path": "my-dir",
       "default": true
+    },
+    {
+      "path": "my-dir2",
+      "default": false
     }
   ],
   "name": "vp-custom-folder",
