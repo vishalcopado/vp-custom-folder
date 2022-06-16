@@ -13,6 +13,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>ActivateMyDir1</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>ActivateOrder</name>
     </userPermissions>
     <userPermissions>

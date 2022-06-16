@@ -20,6 +20,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>ActivateForceApp1</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>ActivateOrder</name>
     </userPermissions>
     <userPermissions>
