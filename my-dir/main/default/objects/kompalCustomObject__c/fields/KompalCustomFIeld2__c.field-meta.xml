@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>KompalCustomFIeld2__c</fullName>
-    <description>devVal1</description>
+    <description>{!Environment.var5} and added {!Environment.var5} again to see scope</description>
     <externalId>false</externalId>
     <label>KompalCustomFIeld2</label>
     <required>false</required>
