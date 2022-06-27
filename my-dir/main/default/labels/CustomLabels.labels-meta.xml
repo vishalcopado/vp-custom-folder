@@ -5,6 +5,13 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>KompalLabel1</shortDescription>
-        <value>label1 value</value>
+        <value>label1 value {!Environment.var3}</value>
+    </labels>
+    <labels>
+        <fullName>KompalLabel2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>KompalLabel2</shortDescription>
+        <value>{!Environment.var3} -test</value>
     </labels>
 </CustomLabels>
