@@ -12,6 +12,6 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>KompalLabel2</shortDescription>
-        <value>{!Environment.var3} -test</value>
+        <value>{!Environment.var3} -test with new {!Environment.var3}</value>
     </labels>
 </CustomLabels>
