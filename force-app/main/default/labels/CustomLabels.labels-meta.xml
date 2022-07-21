@@ -10,8 +10,8 @@
     <labels>
         <fullName>KompalLabel2</fullName>
         <language>en_US</language>
-        <protected>true</protected>
+        <protected>false</protected>
         <shortDescription>KompalLabel2</shortDescription>
-        <value>{!Environment.var3} -test with new {!Environment.var3}</value>
+        <value>test avlue2</value>
     </labels>
 </CustomLabels>
