@@ -8,6 +8,13 @@
         <value>test value5</value>
     </labels>
     <labels>
+        <fullName>KompalLabel6</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>KompalLabel6</shortDescription>
+        <value>two labels test</value>
+    </labels>
+    <labels>
         <fullName>kompalLabel1</fullName>
         <language>en_US</language>
         <protected>false</protected>
