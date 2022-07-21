@@ -7,4 +7,11 @@
         <shortDescription>KompalLabel3</shortDescription>
         <value>kompal label3 with {!Environment.var3} with new - {!Environment.var4}</value>
     </labels>
+    <labels>
+        <fullName>kompalLabel4</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>kompalLabel4</shortDescription>
+        <value>test4</value>
+    </labels>
 </CustomLabels>
