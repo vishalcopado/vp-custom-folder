@@ -7,4 +7,11 @@
         <shortDescription>kompalLabel1</shortDescription>
         <value>Test value1</value>
     </labels>
+    <labels>
+        <fullName>kompalLabel4</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>kompalLabel4</shortDescription>
+        <value>test4</value>
+    </labels>
 </CustomLabels>
