@@ -8,6 +8,13 @@
         <value>kompal label3 with {!Environment.var3} with new - {!Environment.var4}</value>
     </labels>
     <labels>
+        <fullName>KompalLabel6</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>KompalLabel6</shortDescription>
+        <value>two labels test</value>
+    </labels>
+    <labels>
         <fullName>kompalLabel4</fullName>
         <language>en_US</language>
         <protected>false</protected>
