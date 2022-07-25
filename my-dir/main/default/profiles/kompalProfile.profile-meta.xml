@@ -17,6 +17,11 @@
         <readable>false</readable>
     </fieldPermissions>
     <loginHours n1:nil="true" />
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>kompalCustomObject__c.TestRecord1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
     <userLicense>Analytics Cloud Integration User</userLicense>
     <userPermissions>
         <enabled>true</enabled>
