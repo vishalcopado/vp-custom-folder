@@ -8,6 +8,10 @@
         <enabled>true</enabled>
         <name>kompalCustomPermission2</name>
     </customPermissions>
+    <customSettingAccesses>
+        <enabled>true</enabled>
+        <name>kompalCustomSetting1__c</name>
+    </customSettingAccesses>
     <hasActivationRequired>false</hasActivationRequired>
     <label>kompalPermSet</label>
     <objectPermissions>
