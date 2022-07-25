@@ -6,6 +6,14 @@
         <enabled>false</enabled>
     </classAccesses>
     <custom>true</custom>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>kompalCustomPermission1</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>kompalCustomPermission2</name>
+    </customPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>kompalCustomObject__c.KompalCustomFIeld1__c</field>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomPermission xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>test permi2</description>
+    <isLicensed>false</isLicensed>
+    <label>kompalCustomPermission2</label>
+    <requiredPermission>
+        <customPermission>kompalCustomPermission1</customPermission>
+        <dependency>true</dependency>
+    </requiredPermission>
+</CustomPermission>
