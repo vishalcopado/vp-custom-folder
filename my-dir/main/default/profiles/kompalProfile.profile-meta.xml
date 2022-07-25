@@ -13,6 +13,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <loginHours n1:nil="true" />
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>kompalCustomObject__c.TestRecord1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
     <userLicense>Analytics Cloud Integration User</userLicense>
     <userPermissions>
         <enabled>true</enabled>
@@ -52,10 +57,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>QueryAllFiles</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>RunReports</name>
     </userPermissions>
     <userPermissions>
@@ -65,10 +66,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>UseWebLink</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ViewAllData</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
