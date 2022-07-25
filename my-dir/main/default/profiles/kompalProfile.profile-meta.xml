@@ -20,6 +20,9 @@
         <field>kompalCustomObject__c.KompalCustomFIeld2__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <layoutAssignments>
+        <layout>kompalCustomObject__c-Copy of kompalCustomObject Layout2</layout>
+    </layoutAssignments>
     <loginHours n1:nil="true" />
     <recordTypeVisibilities>
         <default>true</default>
