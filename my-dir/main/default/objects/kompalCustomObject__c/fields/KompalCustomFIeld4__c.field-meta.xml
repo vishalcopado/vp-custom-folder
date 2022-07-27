@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>KompalCustomFIeld2__c</fullName>
-    <description>devVal1 and added devVal1 again to see scope</description>
+    <fullName>KompalCustomFIeld4__c</fullName>
+    <description>devVal1 adding to see scope</description>
     <externalId>false</externalId>
-    <label>KompalCustomFIeld2</label>
+    <label>KompalCustomFIeld4</label>
+    <length>10</length>
     <required>false</required>
     <trackTrending>false</trackTrending>
-    <type>TextArea</type>
+    <type>Text</type>
+    <unique>false</unique>
 </CustomField>

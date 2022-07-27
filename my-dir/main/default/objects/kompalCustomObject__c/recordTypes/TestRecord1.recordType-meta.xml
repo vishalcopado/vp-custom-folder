@@ -2,5 +2,6 @@
 <RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>TestRecord1</fullName>
     <active>true</active>
+    <compactLayoutAssignment>kompalCompactL1</compactLayoutAssignment>
     <label>TestRecord1</label>
 </RecordType>
